@@ -1,8 +1,8 @@
-#Curso da RocketSeat
+# Curso da RocketSeat
 
-##Chapter 1
+## Chapter 1
 
-  ###Module 1 - setting up environment
+  ### Module 1 - setting up environment
 
  - [] Criando estrutura do projeto
  - [] Configurando Babel

@@ -6,5 +6,5 @@
 
  - [x] Criando estrutura do projeto
  - [x] Configurando Babel
- - [ ] Configurando Webpack
+ - [x] Configurando Webpack
  - [ ] Estrutura ReactJS

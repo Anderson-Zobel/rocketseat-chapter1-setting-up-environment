@@ -10,4 +10,5 @@
  - Lesson 4: [x] Estrutura ReactJS
  - Lesson 5: [x] Servindo HTML estático
  - Lesson 6: [x] Webpack Dev server
+ - Lesson 7: [x] Utilizando source maps
  

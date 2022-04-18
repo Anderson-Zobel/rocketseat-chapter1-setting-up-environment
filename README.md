@@ -4,7 +4,7 @@
 
   ### Module 1 - setting up environment
 
- - [ ] Criando estrutura do projeto
- - [ ] Configurando Babel
+ - [x] Criando estrutura do projeto
+ - [x] Configurando Babel
  - [ ] Configurando Webpack
  - [ ] Estrutura ReactJS

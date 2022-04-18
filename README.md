@@ -8,3 +8,5 @@
  - [x] Configurando Babel
  - [x] Configurando Webpack
  - [x] Estrutura ReactJS
+ - [x] Servindo HTML estático
+ 

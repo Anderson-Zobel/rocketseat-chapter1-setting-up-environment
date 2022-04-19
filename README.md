@@ -13,3 +13,4 @@
  - Lesson 7: [x] Utilizando source maps
  - Lesson 8: [x] Ambient dev e produção
  - Lesson 9: [x] Importando arquivos CSS
+ - Lesson 10: [x] Utilizando SASS

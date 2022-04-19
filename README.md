@@ -18,7 +18,7 @@
    ### Module 2 - Conceitos importantes
 
  - Lesson 1: [x] Primeiro componente React
- - Lesson 2: [] Propriedades no React
+ - Lesson 2: [x] Propriedades no React
  - Lesson 3: [] Estado do componente
  - Lesson 4: [] A imutabilidade do React
  - Lesson 5: [] Fast Refresh no Webpack

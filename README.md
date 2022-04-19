@@ -2,7 +2,7 @@
 
 ## Chapter 1
 
-  ### Module 1 - setting up environment
+  ### Module 1 - Configurando ambiente
 
  - Lesson 1: [x] Criando estrutura do projeto
  - Lesson 2: [x] Configurando Babel
@@ -14,3 +14,12 @@
  - Lesson 8: [x] Ambient dev e produção
  - Lesson 9: [x] Importando arquivos CSS
  - Lesson 10: [x] Utilizando SASS
+
+   ### Module 2 - Conceitos importantes
+
+ - Lesson 1: [x] Primeiro componente React
+ - Lesson 2: [] Propriedades no React
+ - Lesson 3: [] Estado do componente
+ - Lesson 4: [] A imutabilidade do React
+ - Lesson 5: [] Fast Refresh no Webpack
+

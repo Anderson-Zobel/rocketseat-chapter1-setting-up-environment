@@ -20,6 +20,6 @@
  - Lesson 1: [x] Primeiro componente React
  - Lesson 2: [x] Propriedades no React
  - Lesson 3: [x] Estado do componente
- - Lesson 4: [] A imutabilidade do React
+ - Lesson 4: [x] A imutabilidade do React
  - Lesson 5: [] Fast Refresh no Webpack
 

@@ -25,9 +25,9 @@
 
   ### Module 3 - Chamadas HTTP
 
- - Lesson 1: [x] Estilização da listagem
- - Lesson 2: [x] Utilizando o useEffect
- - Lesson 3: [] Listando repositórios
+ - Lesson 1: - [x] Estilização da listagem
+ - Lesson 2: - [x] Utilizando o useEffect
+ - Lesson 3: - [] Listando repositórios
 
  
 

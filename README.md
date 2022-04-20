@@ -4,33 +4,30 @@
 
   ### Module 1 - Configurando ambiente
 
- - Lesson 1: [x] Criando estrutura do projeto
- - Lesson 2: [x] Configurando Babel
- - Lesson 3: [x] Configurando Webpack
- - Lesson 4: [x] Estrutura ReactJS
- - Lesson 5: [x] Servindo HTML estático
- - Lesson 6: [x] Webpack Dev server
- - Lesson 7: [x] Utilizando source maps
- - Lesson 8: [x] Ambient dev e produção
- - Lesson 9: [x] Importando arquivos CSS
- - Lesson 10: [x] Utilizando SASS
+ - [x] Lesson 01: Criando estrutura do projeto
+ - [x] Lesson 02: Configurando Babel
+ - [x] Lesson 03: Configurando Webpack
+ - [x] Lesson 04: Estrutura ReactJS
+ - [x] Lesson 05: Servindo HTML estático
+ - [x] Lesson 06: Webpack Dev server
+ - [x] Lesson 07: Utilizando source maps
+ - [x] Lesson 08: Ambient dev e produção
+ - [x] Lesson 09: Importando arquivos CSS
+ - [x] Lesson 10: Utilizando SASS
 
   ### Module 2 - Conceitos importantes
 
- - Lesson 1: [x] Primeiro componente React
- - Lesson 2: [x] Propriedades no React
- - Lesson 3: [x] Estado do componente
- - Lesson 4: [x] A imutabilidade do React
- - Lesson 5: [x] Fast Refresh no Webpack
+ - [x] Lesson 01: Primeiro componente React
+ - [x] Lesson 02: Propriedades no React
+ - [x] Lesson 03: Estado do componente
+ - [x] Lesson 04: A imutabilidade do React
+ - [x] Lesson 05: Fast Refresh no Webpack
 
   ### Module 3 - Chamadas HTTP
 
- - Lesson 1: 
-  - [x] Estilização da listagem
- - Lesson 2: 
-  - [x] Utilizando o useEffect
- - Lesson 3: 
-  - [] Listando repositórios
+ - [x] Lesson 01: Estilização da listagem
+ - [x] Lesson 02: Utilizando o useEffect
+ - []  Lesson 03: Listando repositórios
 
  
 

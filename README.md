@@ -15,11 +15,19 @@
  - Lesson 9: [x] Importando arquivos CSS
  - Lesson 10: [x] Utilizando SASS
 
-   ### Module 2 - Conceitos importantes
+  ### Module 2 - Conceitos importantes
 
  - Lesson 1: [x] Primeiro componente React
  - Lesson 2: [x] Propriedades no React
  - Lesson 3: [x] Estado do componente
  - Lesson 4: [x] A imutabilidade do React
  - Lesson 5: [x] Fast Refresh no Webpack
+
+  ### Module 3 - Chamadas HTTP
+
+ - Lesson 1: [x] Estilização da listagem
+ - Lesson 2: [] Propriedades no React
+ - Lesson 3: [] Estado do componente
+
+ 
 

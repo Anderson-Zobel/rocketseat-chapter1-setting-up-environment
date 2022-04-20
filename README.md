@@ -27,7 +27,7 @@
 
  - [x] Lesson 01: Estilização da listagem
  - [x] Lesson 02: Utilizando o useEffect
- - []  Lesson 03: Listando repositórios
+ - [x] Lesson 03: Listando repositórios
 
  
 

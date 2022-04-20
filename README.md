@@ -4,36 +4,36 @@
 
   ### Module 1 - Configurando ambiente
 
- - [x] Lesson 01: Criando estrutura do projeto
- - [x] Lesson 02: Configurando Babel
- - [x] Lesson 03: Configurando Webpack
- - [x] Lesson 04: Estrutura ReactJS
- - [x] Lesson 05: Servindo HTML estático
- - [x] Lesson 06: Webpack Dev server
- - [x] Lesson 07: Utilizando source maps
- - [x] Lesson 08: Ambient dev e produção
- - [x] Lesson 09: Importando arquivos CSS
- - [x] Lesson 10: Utilizando SASS
+ - [x] Bloco 01: Criando estrutura do projeto
+ - [x] Bloco 02: Configurando Babel
+ - [x] Bloco 03: Configurando Webpack
+ - [x] Bloco 04: Estrutura ReactJS
+ - [x] Bloco 05: Servindo HTML estático
+ - [x] Bloco 06: Webpack Dev server
+ - [x] Bloco 07: Utilizando source maps
+ - [x] Bloco 08: Ambient dev e produção
+ - [x] Bloco 09: Importando arquivos CSS
+ - [x] Bloco 10: Utilizando SASS
 
   ### Module 2 - Conceitos importantes
 
- - [x] Lesson 01: Primeiro componente React
- - [x] Lesson 02: Propriedades no React
- - [x] Lesson 03: Estado do componente
- - [x] Lesson 04: A imutabilidade do React
- - [x] Lesson 05: Fast Refresh no Webpack
+ - [x] Bloco 01: Primeiro componente React
+ - [x] Bloco 02: Propriedades no React
+ - [x] Bloco 03: Estado do componente
+ - [x] Bloco 04: A imutabilidade do React
+ - [x] Bloco 05: Fast Refresh no Webpack
 
   ### Module 3 - Chamadas HTTP
 
- - [x] Lesson 01: Estilização da listagem
- - [x] Lesson 02: Utilizando o useEffect
- - [x] Lesson 03: Listando repositórios
+ - [x] Bloco 01: Estilização da listagem
+ - [x] Bloco 02: Utilizando o useEffect
+ - [x] Bloco 03: Listando repositórios
 
   ### Module 4 - Chamadas HTTP
 
- - [x] Lesson 01: Fundamentos TypeScript(FundamentosTypeScript.ts)
- - [ ] Lesson 02: TypeScript no ReactJS
- - [ ] Lesson 03: Components com TypeScript
+ - [x] Bloco 01: Fundamentos TypeScript(FundamentosTypeScript.ts)
+ - [x] Bloco 02: TypeScript no ReactJS
+ - [ ] Bloco 03: Components com TypeScript
 
  
 

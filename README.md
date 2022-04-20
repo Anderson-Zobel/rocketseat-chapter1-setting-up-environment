@@ -29,5 +29,11 @@
  - [x] Lesson 02: Utilizando o useEffect
  - [x] Lesson 03: Listando repositórios
 
+  ### Module 4 - Chamadas HTTP
+
+ - [x] Lesson 01: Fundamentos TypeScript(FundamentosTypeScript.ts)
+ - [ ] Lesson 02: TypeScript no ReactJS
+ - [ ] Lesson 03: Components com TypeScript
+
  
 

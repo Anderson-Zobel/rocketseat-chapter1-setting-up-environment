@@ -35,5 +35,10 @@
  - [x] Aula 02: TypeScript no ReactJS
  - [x] Aula 03: Components com TypeScript
 
- 
+  ### Bloco 5 - Finalização aplicação
+
+ - [x] Aula 01: Utilizando Reack DevTools(somente vídeo)
+ - [x] Aula 02: Finalização do módulo(somente vídeo)
+
+
 

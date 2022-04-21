@@ -1,39 +1,39 @@
-# Curso da RocketSeat
+# Curso da RocketSeat - Chapter 1
 
-## Chapter 1
+## Módulo 1
 
-  ### Module 1 - Configurando ambiente
+  ### Bloco 1 - Configurando ambiente
 
- - [x] Bloco 01: Criando estrutura do projeto
- - [x] Bloco 02: Configurando Babel
- - [x] Bloco 03: Configurando Webpack
- - [x] Bloco 04: Estrutura ReactJS
- - [x] Bloco 05: Servindo HTML estático
- - [x] Bloco 06: Webpack Dev server
- - [x] Bloco 07: Utilizando source maps
- - [x] Bloco 08: Ambient dev e produção
- - [x] Bloco 09: Importando arquivos CSS
- - [x] Bloco 10: Utilizando SASS
+ - [x] Aula 01: Criando estrutura do projeto
+ - [x] Aula 02: Configurando Babel
+ - [x] Aula 03: Configurando Webpack
+ - [x] Aula 04: Estrutura ReactJS
+ - [x] Aula 05: Servindo HTML estático
+ - [x] Aula 06: Webpack Dev server
+ - [x] Aula 07: Utilizando source maps
+ - [x] Aula 08: Ambient dev e produção
+ - [x] Aula 09: Importando arquivos CSS
+ - [x] Aula 10: Utilizando SASS
 
-  ### Module 2 - Conceitos importantes
+  ### Bloco 2 - Conceitos importantes
 
- - [x] Bloco 01: Primeiro componente React
- - [x] Bloco 02: Propriedades no React
- - [x] Bloco 03: Estado do componente
- - [x] Bloco 04: A imutabilidade do React
- - [x] Bloco 05: Fast Refresh no Webpack
+ - [x] Aula 01: Primeiro componente React
+ - [x] Aula 02: Propriedades no React
+ - [x] Aula 03: Estado do componente
+ - [x] Aula 04: A imutabilidade do React
+ - [x] Aula 05: Fast Refresh no Webpack
 
-  ### Module 3 - Chamadas HTTP
+  ### Bloco 3 - Chamadas HTTP
 
- - [x] Bloco 01: Estilização da listagem
- - [x] Bloco 02: Utilizando o useEffect
- - [x] Bloco 03: Listando repositórios
+ - [x] Aula 01: Estilização da listagem
+ - [x] Aula 02: Utilizando o useEffect
+ - [x] Aula 03: Listando repositórios
 
-  ### Module 4 - Chamadas HTTP
+  ### Bloco 4 - Chamadas HTTP
 
- - [x] Bloco 01: Fundamentos TypeScript(FundamentosTypeScript.ts)
- - [x] Bloco 02: TypeScript no ReactJS
- - [ ] Bloco 03: Components com TypeScript
+ - [x] Aula 01: Fundamentos TypeScript(FundamentosTypeScript.ts)
+ - [x] Aula 02: TypeScript no ReactJS
+ - [x] Aula 03: Components com TypeScript
 
  
 

@@ -40,5 +40,5 @@
  - [x] Aula 01: Utilizando Reack DevTools(somente vídeo)
  - [x] Aula 02: Finalização do módulo(somente vídeo)
 
-
+Chapter 1 - ✔️ Done
 
